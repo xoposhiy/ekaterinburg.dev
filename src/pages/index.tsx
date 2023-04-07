@@ -57,7 +57,7 @@ export default function Home() {
 
         <p>
           Уже есть 10&nbsp;проектов и&nbsp;заряженная команда&nbsp;&mdash;
-          зацените, какой у&nbsp;нас
+          зацените, какой у&nbsp;нас&nbsp;
           <a href="https://github.com/ekaterinburgdev/" target="_blank">
             гитхаб
           </a>
